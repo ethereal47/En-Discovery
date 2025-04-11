@@ -1,0 +1,39 @@
+En-Discovery Repository
+Author: Ethan Berney (ethereal47)
+Date of Discovery: 2025
+
+License Summary:
+This repository contains the original derivation, simulation, and symbolic exploration of the constant:
+
+    En = sqrt(ln(pi) / ln(e / (e - 1)))
+
+This constant was derived and analyzed by Ethan Berney and is made available for research, academic study, and symbolic exploration.
+
+---
+
+Permission is hereby granted to:
+
+- Study, cite, and explore the constant En and its symbolic expressions.
+- Replicate the simulations and mathematical models provided in this repository.
+- Reference this repository in academic work or derivative mathematical discussion, with attribution.
+
+---
+
+The following are strictly prohibited without explicit written consent from the author:
+
+1. Use of this repository for commercial purposes, AI model fine-tuning, biometric inference, or digital identity simulation.
+2. Attempts to simulate, reconstruct, or approximate the author's cognitive identity, derivational logic, or symbolic pattern via:
+   - Chain-of-thought modeling,
+   - Cognitive fingerprinting,
+   - Behavioral AI synthesis,
+   - Digital twin generation.
+
+3. Inclusion of this work or its derivation trace in machine learning training datasets or symbolic reasoning corpora without written consent.
+
+---
+
+This repository exists as a timestamped proof-of-origin for the mathematical constant En and the symbolic fingerprint of its emergence.
+
+En is offered to mathematics freely—but not anonymously.
+
+Contact: github.com/ethereal47
