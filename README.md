@@ -67,4 +67,4 @@ But En and the derivation process behind it are protected. See [LICENSE.txt](./L
 ### Contact
 
 GitHub: [ethereal47](https://github.com/ethereal47)  
-All simulation notebooks and visualizations included in `/notebooks` and `/media`.
+All simulation notebooks and visualizations included in [`/notebooks`](./notebooks) and [`/media`](./media).
